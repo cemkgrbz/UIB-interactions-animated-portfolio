@@ -11,4 +11,4 @@ The website you will be making is [here...](https://hsnakk.github.io/UIB_Interac
 - There is an animation and neon effect on the _Home_ and _About_ buttons at the bottom of the page
 - Make the page as pixel-perfect to the reference site as possible
 
-Experiment and have fun!
+Experiment and have fun! 
